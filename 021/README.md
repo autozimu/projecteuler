@@ -21,9 +21,9 @@ A few improvement related to sum of divisors:
 - divisors always occur in pairs, (sometimes pair with itself). So we could
   set the upper limit of the check to $\sqrt(n)$.
 
-Assume $p$ is a prime, $\sigma$ be the sum of divisors (including the number
-itself, which is slightly different with the question description), then there
-is
+## Solution 2
+
+Assume $p$ is a prime, $\sigma$ be the sum of divisors, then there is
 
 $$
 \sigma(p^a) = (p^{a+1} - 1) / (p - 1)
