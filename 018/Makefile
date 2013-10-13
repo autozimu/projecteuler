@@ -1,2 +1,1 @@
-main: main.c
-	clang $< -o $@
+all: main
