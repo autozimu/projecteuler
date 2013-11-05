@@ -28,4 +28,6 @@ The 12th term, $F_{12}$, is the first term to contain three digits.
 What is the first term in the Fibonacci sequence to contain 1000 digits?
 
 
-## Brute-force
+## Solution 1
+
+Brute-force
