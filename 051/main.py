@@ -31,7 +31,7 @@ def fill(pattern, d, n):
     return sum([m*10**(len(pattern)-i-1) for (i, m) in enumerate(pattern)])
 
 def test_fill():
-    assert(fill([1, 0, 0, 0, 1], 1, 23)) == 21113
+    assert fill([1, 0, 0, 0, 1], 1, 23) == 21113
 
 
 if __name__ == '__main__':
