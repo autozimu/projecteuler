@@ -49,4 +49,6 @@ specific order, and in each hand there is a clear winner.
 
 How many hands does Player 1 win?
 
-##
+## Solution 1
+
+Check each situations, one by one.
